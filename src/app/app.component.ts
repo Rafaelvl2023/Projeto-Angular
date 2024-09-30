@@ -9,5 +9,9 @@ import { RouterOutlet } from '@angular/router';
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-  title = 'user-crud';
+  title = 'Bem vindo ao curso de FrontEnd com Angular';
+}
+
+export class Form {
+  title = 'Bem vindo ao curso de FrontEnd com Angular';
 }
